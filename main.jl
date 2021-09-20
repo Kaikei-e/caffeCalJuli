@@ -1,3 +1,5 @@
+using Message
 
-selected_mode = 1
+println(Message.start_stmt)
+
 
