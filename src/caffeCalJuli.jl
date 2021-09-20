@@ -1,7 +1,13 @@
-using caffeCalJuli
+include("funcs/messages/messages.jl")
+
+
 
 module caffeCalJuli
 
-# Write your package code here.
+messege = Msgs()
+println(messege.start_stmt)
+
 
 end
+
+
