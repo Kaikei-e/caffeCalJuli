@@ -1,0 +1,13 @@
+name = "caffeCalJuli"
+uuid = "2f35c54b-0146-4e90-a5a9-34891f986952"
+authors = ["Kaikei-e  <e_kaikei@protonmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
